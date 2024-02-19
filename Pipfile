@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 jupyterlab = "==3.5.3"
 psycopg2 = "*"
-sqlalchemy = "*"
+sqlalchemy = "1.4.51"
 jupyterlab-sql-explorer = {git = "git+https://github.com/houstondatavis/jupyterlab-sql-explorer.git"}
 
 [dev-packages]
